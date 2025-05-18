@@ -37,8 +37,9 @@ project/
 ├── README.md              # You're reading it!
 ├── fake.csv               # Fake news dataset (add manually)
 └── True.csv               # Real news dataset (add manually)
-Note: True.csv and fake.csv are not included in this repository due to their large size.
-Please download and add them manually to the project directory before running the notebook.
+
+## Note: True.csv and fake.csv are not included in this repository due to their large size.
+## Please download and add them manually to the project directory before running the notebook.
 
 
 ---
